@@ -1,5 +1,7 @@
 # Amma-Homes-Sales-Performance
 
+Design and build PowerBI dashboard for Amma Homes
+
 PROJECT DESCRIPTION
 
 Amma Homes Limited, leading housing estate provider in Africa recently has a low sales. I was tasked with the responsobility to analyse recent sales and generate insights for predictive analysis. 
