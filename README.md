@@ -4,6 +4,9 @@ PROJECT DESCRIPTION
 
 DATA MODEL: STAR SCHEMA
 
+
+<img width="477" alt="image" src="https://github.com/Adebisiokegbemi/Amma-Homes-Sales-Performance/assets/91023196/03bc080a-f4c9-4575-846e-de4cfff972d3">
+
 REQUIREMENT
 
 
